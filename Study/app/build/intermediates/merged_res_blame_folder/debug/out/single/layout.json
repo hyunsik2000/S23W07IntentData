@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.mystudy.app-mergeDebugResources-3:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.mystudy.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "kr.ac.kumoh.ce.s20190400.mystudy.app-mergeDebugResources-3:/layout/activity_main.xml",
+        "source": "kr.ac.kumoh.ce.s20190400.mystudy.app-main-6:/layout/activity_main.xml"
+    }
+]
