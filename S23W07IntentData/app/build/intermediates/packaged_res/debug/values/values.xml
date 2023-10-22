@@ -2,10 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <string name="app_name">S23W07IntentData</string>
-    <style name="Base.Theme.S23W07IntentData" parent="Theme.Material3.DayNight.NoActionBar">
+    <string name="app_name">S23W07Intentdata</string>
+    <style name="Base.Theme.S23W07Intentdata" parent="Theme.Material3.DayNight.NoActionBar">
         
         
     </style>
-    <style name="Theme.S23W07IntentData" parent="Base.Theme.S23W07IntentData"/>
+    <style name="Theme.S23W07Intentdata" parent="Base.Theme.S23W07Intentdata"/>
 </resources>

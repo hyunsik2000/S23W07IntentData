@@ -25,5 +25,5 @@ class ImageActivity : AppCompatActivity() {
 
 
         main.image.setImageResource(res)
-        }
     }
+}

@@ -26,9 +26,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/Theme.S23W07IntentData" >
+        android:theme="@style/Theme.S23W07Intentdata" >
         <activity
             android:name="kr.ac.kumoh.ce.s20190400.s23w07intentdata.ImageActivity"
+            android:exported="false" />
+        <activity
+            android:name="kr.ac.kumoh.ce.s20190400.s23w07intentdata.ActivityImage"
+            android:exported="false" />
+        <activity
+            android:name="kr.ac.kumoh.ce.s20190400.s23w07intentdata.activity_image"
             android:exported="false" />
         <activity
             android:name="kr.ac.kumoh.ce.s20190400.s23w07intentdata.MainActivity"

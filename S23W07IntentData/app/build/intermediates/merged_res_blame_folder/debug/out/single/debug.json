@@ -1,86 +1,82 @@
 [
     {
-        "merged": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:\\layout\\activity_main.xml"
+        "merged": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:\\layout_activity_image.xml.flat",
-        "source": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:\\layout\\activity_image.xml"
+        "merged": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:/drawable_omg.png.flat",
+        "source": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:/drawable/omg.png"
     },
     {
-        "merged": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:\\drawable_omg.png.flat",
-        "source": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:\\drawable\\omg.png"
+        "merged": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:/xml_data_extraction_rules.xml.flat",
+        "source": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:\\drawable\\ic_launcher_background.xml"
+        "merged": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:/xml_backup_rules.xml.flat",
+        "source": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:\\xml\\data_extraction_rules.xml"
+        "merged": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:/layout_activity_image.xml.flat",
+        "source": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:/layout/activity_image.xml"
+    },
+    {
+        "merged": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
         "merged": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:/layout_activity_main.xml.flat",
         "source": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:\\xml\\backup_rules.xml"
-    },
-    {
-        "merged": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
-        "merged": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:\\mipmap-hdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:\\drawable_cupid.png.flat",
-        "source": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:\\drawable\\cupid.png"
-    },
-    {
-        "merged": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\류현식\\.gradle\\daemon\\8.0\\kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-merged_res-4:/drawable_cupid.png.flat",
+        "source": "kr.ac.kumoh.ce.s20190400.s23w07intentdata.app-main-6:/drawable/cupid.png"
     }
 ]

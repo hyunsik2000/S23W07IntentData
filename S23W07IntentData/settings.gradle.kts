@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "S23W07IntentData"
+rootProject.name = "S23W07Intentdata"
 include(":app")
