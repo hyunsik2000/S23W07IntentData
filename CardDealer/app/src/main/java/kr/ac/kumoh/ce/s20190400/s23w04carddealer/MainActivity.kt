@@ -6,25 +6,25 @@ import androidx.lifecycle.Observer
 import kr.ac.kumoh.ce.s20190400.s23w04carddealer.databinding.ActivityMainBinding
 import androidx.lifecycle.ViewModelProvider
 class MainActivity : AppCompatActivity() {
-    private lateinit var main: ActivityMainBinding
-    private lateinit var model: CardDealerViewModel
+    private lateinit var main: ActivityMainBinding //뷰 바인딩
+    private lateinit var model: CardDealerViewModel //뷰 모델
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        main = ActivityMainBinding.inflate(layoutInflater)
+        main = ActivityMainBinding.inflate(layoutInflater) //뷰 바인딩 선언
         //setContentView(R.layout.activity_main)
         setContentView(main.root)
         model = ViewModelProvider(this)[CardDealerViewModel::class.java]
-
-        model.cards.observe(this, Observer {
+        // 뷰 모델 선언
+        model.cards.observe(this, Observer { //뷰 모델.cards.observe 옵저버
             val res = IntArray(5)
-            for (i in res.indices){
-                res[i] = resources.getIdentifier(
-                getCardName(it[i]),
+            for (i in res.indices){ //배열 읽기
+                res[i] = resources.getIdentifier( //resources.getIdentifier(name: String, defType: String, defPackage: String)
+                getCardName(it[i]), //카드 이름을 가져오고
                 "drawable",
                 packageName
                 )
                 }
-            main.card1.setImageResource(res[0])
+            main.card1.setImageResource(res[0]) //뷰에 imageview인 card1에 이미지 설정
         })
 
         main.btnShuffle.setOnClickListener {
@@ -53,5 +53,5 @@ private fun getCardName(c: Int): String {
     }
 
 //    return if (number in arrayOf("jack", "queen", "king"))    "c_${number}_of_${shape}2"  else
-        return "c_${number}_of_${shape}"
+        return "c_${number}_of_${shape}" // 카드 이름을 반환
 }
